@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "MavenSession Test Automation Test Suite">
+  
+<test name= "MavenSession Application Test" >
+
+<packages>
+<package name ="com.qa.test.*" />
+</packages>
+
+     
+    </test> 
+    </suite>
